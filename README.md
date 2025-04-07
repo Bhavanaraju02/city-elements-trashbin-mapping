@@ -1,0 +1,1 @@
+# city-elements-trashbin-mapping
