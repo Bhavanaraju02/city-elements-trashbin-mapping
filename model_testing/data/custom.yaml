@@ -1,0 +1,7 @@
+train: C:/Users/morit/city-elements/model_testing/data/images
+val: C:/Users/morit/city-elements/model_testing/data/images
+test: C:/Users/morit/city-elements/model_testing/data/images
+
+nc: 1 
+
+names: ['trashbin']
