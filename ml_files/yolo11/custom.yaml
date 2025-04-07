@@ -1,0 +1,6 @@
+train: /home/moritz.burmester/city-dev/city_data_bbox_filtered_w_neg_samples/images
+val: /home/moritz.burmester/city-dev/city_data_bbox_filtered_w_neg_samples/images/val
+
+nc: 1 
+
+names: ['trashbin']
