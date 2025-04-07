@@ -1,0 +1,15 @@
+streamlit
+folium 
+numpy 
+geopy
+shapely
+streamlit_folium
+osmnx
+pandas
+pillow
+cv2
+ultralytics
+glob
+scikit-learn
+tqdm
+matplotlib
